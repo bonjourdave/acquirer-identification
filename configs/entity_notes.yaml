@@ -1,0 +1,14 @@
+# Outside-the-dataset facts about acquirer entities. Keep this list short: each entry is a
+# real-world claim a banker will see, so each needs a source and an as-of date.
+# These came from the model's general knowledge, NOT from a lookup in this session: verify each
+# against a primary source (press release, court docket) before relying on it.
+as_of: "2026-10-24"
+source: "General knowledge, unverified in-session"
+
+# Old name -> current entity. Deals are merged under the current name before ranking.
+aliases:
+  Atrium Health: Advocate Health  # Advocate Aurora Health and Atrium Health combined, Dec 2022
+
+# Shown on the buyer's page and in the summary table; never sent to the writer model.
+status:
+  Steward Health Care: "Filed for Chapter 11 bankruptcy in 2024; hospitals largely sold since. Likely not an active buyer."

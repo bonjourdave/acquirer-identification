@@ -1,0 +1,581 @@
+{
+ "description": "Golden set 1: IDs only, rebuilt from the CSV at eval time.",
+ "csv_sha256": "3fc1557c37b6f31cc7c3c59c59f784dc0f6a95916c8365f472a6766df83db306",
+ "dev_years": [
+  2022
+ ],
+ "holdout_years": [
+  2023,
+  2024
+ ],
+ "cases": [
+  {
+   "transaction_id": "MA-2022-0007",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0012",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0024",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0038",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0039",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0045",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0055",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0056",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0062",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0071",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0075",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0080",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0082",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0084",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0086",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0096",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0103",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0107",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0112",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0165",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0172",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0176",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0183",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0187",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0207",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0210",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0212",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0213",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0215",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0219",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0222",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0229",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0233",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0245",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0252",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0254",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0259",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0272",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0273",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0281",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0282",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0285",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0290",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0294",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0296",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0299",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0311",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0317",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0319",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0323",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0332",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0333",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0345",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0348",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0350",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0353",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0377",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0389",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0390",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0393",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0398",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0402",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0416",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0419",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0424",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0428",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0450",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0457",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0458",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2022-0473",
+   "split": "dev"
+  },
+  {
+   "transaction_id": "MA-2023-0004",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0021",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0022",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0037",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0049",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0058",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0089",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0108",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0110",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0116",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0117",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0161",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0166",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0174",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0177",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0191",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0197",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0209",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0218",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0221",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0236",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0255",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0263",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0265",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0278",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0279",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0280",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0293",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0298",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0307",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0330",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0336",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0354",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0355",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0365",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0368",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0378",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0379",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0391",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0421",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0438",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0445",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0456",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0459",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0466",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0467",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0481",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0499",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2023-0500",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2024-0002",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2024-0020",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2024-0030",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2024-0035",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2024-0042",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2024-0079",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2024-0098",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2024-0120",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2024-0128",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2024-0129",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2024-0152",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2024-0186",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2024-0190",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2024-0216",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2024-0225",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2024-0251",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2024-0267",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2024-0339",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2024-0347",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2024-0405",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2024-0431",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2024-0448",
+   "split": "holdout"
+  },
+  {
+   "transaction_id": "MA-2024-0460",
+   "split": "holdout"
+  }
+ ]
+}

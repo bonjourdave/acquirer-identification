@@ -1,0 +1,18 @@
+# The brief's target. Copy this file to rank acquirers for any other target.
+target:
+  name: "Mid-market regional healthcare services co."
+  sector: "Healthcare Services"
+  deal_size_mm: 200
+  ownership: "Private"
+  regional: true
+  region: null            # brief names no region
+  ebitda_margin_pct: null # "strong margins" -> sector 75th percentile, computed
+  description: "Mid-market, private, regional healthcare services company with strong EBITDA margins."
+
+# Omitted keys use the defaults in src/acquirer_id/config.py (ScoringConfig).
+scoring:
+  k: 10
+  min_per_type: 2
+
+# Merged entities and status flags from outside the dataset; remove the line to disable.
+entity_notes: entity_notes.yaml  # relative to this file

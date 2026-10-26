@@ -1,0 +1,268 @@
+{
+ "description": "Golden set 2: (target, acquirer) pairs; packs rebuilt from the CSV.",
+ "csv_sha256": "3fc1557c37b6f31cc7c3c59c59f784dc0f6a95916c8365f472a6766df83db306",
+ "cases": [
+  {
+   "case_id": "healthcare-services-200-francisco-partners",
+   "target": {
+    "name": "Mid-market regional healthcare services co.",
+    "sector": "Healthcare Services",
+    "deal_size_mm": 200.0,
+    "ownership": "Private",
+    "region": null,
+    "regional": true,
+    "ebitda_margin_pct": null,
+    "description": "Mid-market, private, regional healthcare services company with strong EBITDA margins."
+   },
+   "acquirer": "Francisco Partners",
+   "tags": [
+    "default_list",
+    "Financial Sponsor"
+   ],
+   "pack_sha": "adef7260f19a"
+  },
+  {
+   "case_id": "healthcare-services-200-bain-capital",
+   "target": {
+    "name": "Mid-market regional healthcare services co.",
+    "sector": "Healthcare Services",
+    "deal_size_mm": 200.0,
+    "ownership": "Private",
+    "region": null,
+    "regional": true,
+    "ebitda_margin_pct": null,
+    "description": "Mid-market, private, regional healthcare services company with strong EBITDA margins."
+   },
+   "acquirer": "Bain Capital",
+   "tags": [
+    "default_list",
+    "Financial Sponsor",
+    "has_withdrawn_or_terminated",
+    "non_closed_precedent"
+   ],
+   "pack_sha": "b6ff5ff0e8aa"
+  },
+  {
+   "case_id": "healthcare-services-200-blackstone",
+   "target": {
+    "name": "Mid-market regional healthcare services co.",
+    "sector": "Healthcare Services",
+    "deal_size_mm": 200.0,
+    "ownership": "Private",
+    "region": null,
+    "regional": true,
+    "ebitda_margin_pct": null,
+    "description": "Mid-market, private, regional healthcare services company with strong EBITDA margins."
+   },
+   "acquirer": "Blackstone",
+   "tags": [
+    "default_list",
+    "Financial Sponsor",
+    "has_withdrawn_or_terminated"
+   ],
+   "pack_sha": "22e6291176a1"
+  },
+  {
+   "case_id": "healthcare-services-200-nordic-capital",
+   "target": {
+    "name": "Mid-market regional healthcare services co.",
+    "sector": "Healthcare Services",
+    "deal_size_mm": 200.0,
+    "ownership": "Private",
+    "region": null,
+    "regional": true,
+    "ebitda_margin_pct": null,
+    "description": "Mid-market, private, regional healthcare services company with strong EBITDA margins."
+   },
+   "acquirer": "Nordic Capital",
+   "tags": [
+    "default_list",
+    "Financial Sponsor"
+   ],
+   "pack_sha": "96e5031075d6"
+  },
+  {
+   "case_id": "healthcare-services-200-general-atlantic",
+   "target": {
+    "name": "Mid-market regional healthcare services co.",
+    "sector": "Healthcare Services",
+    "deal_size_mm": 200.0,
+    "ownership": "Private",
+    "region": null,
+    "regional": true,
+    "ebitda_margin_pct": null,
+    "description": "Mid-market, private, regional healthcare services company with strong EBITDA margins."
+   },
+   "acquirer": "General Atlantic",
+   "tags": [
+    "default_list",
+    "Financial Sponsor",
+    "thin_evidence",
+    "has_withdrawn_or_terminated"
+   ],
+   "pack_sha": "97747e8b1252"
+  },
+  {
+   "case_id": "healthcare-services-200-ardent-health-services",
+   "target": {
+    "name": "Mid-market regional healthcare services co.",
+    "sector": "Healthcare Services",
+    "deal_size_mm": 200.0,
+    "ownership": "Private",
+    "region": null,
+    "regional": true,
+    "ebitda_margin_pct": null,
+    "description": "Mid-market, private, regional healthcare services company with strong EBITDA margins."
+   },
+   "acquirer": "Ardent Health Services",
+   "tags": [
+    "default_list",
+    "Strategic",
+    "thin_evidence",
+    "non_closed_precedent"
+   ],
+   "pack_sha": "ab05339cca32"
+  },
+  {
+   "case_id": "healthcare-services-200-bon-secours-mercy-health",
+   "target": {
+    "name": "Mid-market regional healthcare services co.",
+    "sector": "Healthcare Services",
+    "deal_size_mm": 200.0,
+    "ownership": "Private",
+    "region": null,
+    "regional": true,
+    "ebitda_margin_pct": null,
+    "description": "Mid-market, private, regional healthcare services company with strong EBITDA margins."
+   },
+   "acquirer": "Bon Secours Mercy Health",
+   "tags": [
+    "default_list",
+    "Strategic",
+    "thin_evidence"
+   ],
+   "pack_sha": "a8181025089b"
+  },
+  {
+   "case_id": "healthcare-services-200-advocate-health",
+   "target": {
+    "name": "Mid-market regional healthcare services co.",
+    "sector": "Healthcare Services",
+    "deal_size_mm": 200.0,
+    "ownership": "Private",
+    "region": null,
+    "regional": true,
+    "ebitda_margin_pct": null,
+    "description": "Mid-market, private, regional healthcare services company with strong EBITDA margins."
+   },
+   "acquirer": "Advocate Health",
+   "tags": [
+    "default_list",
+    "Strategic",
+    "thin_evidence"
+   ],
+   "pack_sha": "2148f555e106"
+  },
+  {
+   "case_id": "healthcare-services-200-steward-health-care",
+   "target": {
+    "name": "Mid-market regional healthcare services co.",
+    "sector": "Healthcare Services",
+    "deal_size_mm": 200.0,
+    "ownership": "Private",
+    "region": null,
+    "regional": true,
+    "ebitda_margin_pct": null,
+    "description": "Mid-market, private, regional healthcare services company with strong EBITDA margins."
+   },
+   "acquirer": "Steward Health Care",
+   "tags": [
+    "default_list",
+    "Strategic",
+    "thin_evidence"
+   ],
+   "pack_sha": "d8dc89f373ac"
+  },
+  {
+   "case_id": "healthcare-services-200-atrium-health",
+   "target": {
+    "name": "Mid-market regional healthcare services co.",
+    "sector": "Healthcare Services",
+    "deal_size_mm": 200.0,
+    "ownership": "Private",
+    "region": null,
+    "regional": true,
+    "ebitda_margin_pct": null,
+    "description": "Mid-market, private, regional healthcare services company with strong EBITDA margins."
+   },
+   "acquirer": "Atrium Health",
+   "tags": [
+    "default_list",
+    "Strategic",
+    "thin_evidence"
+   ],
+   "pack_sha": "6bc60d837bd3"
+  },
+  {
+   "case_id": "healthcare-services-200-new-mountain-capital",
+   "target": {
+    "name": "Mid-market regional healthcare services co.",
+    "sector": "Healthcare Services",
+    "deal_size_mm": 200.0,
+    "ownership": "Private",
+    "region": null,
+    "regional": true,
+    "ebitda_margin_pct": null,
+    "description": "Mid-market, private, regional healthcare services company with strong EBITDA margins."
+   },
+   "acquirer": "New Mountain Capital",
+   "tags": [
+    "extra",
+    "Financial Sponsor",
+    "has_withdrawn_or_terminated",
+    "non_closed_precedent"
+   ],
+   "pack_sha": "054dc62ad9dc"
+  },
+  {
+   "case_id": "dental-60-nordic-capital",
+   "target": {
+    "name": "Small private dental group",
+    "sector": "Dental",
+    "deal_size_mm": 60.0,
+    "ownership": "Private",
+    "region": null,
+    "regional": true,
+    "ebitda_margin_pct": null,
+    "description": ""
+   },
+   "acquirer": "Nordic Capital",
+   "tags": [
+    "generalization",
+    "Financial Sponsor",
+    "non_closed_precedent"
+   ],
+   "pack_sha": "edb92fb68a74"
+  },
+  {
+   "case_id": "dental-60-dental365",
+   "target": {
+    "name": "Small private dental group",
+    "sector": "Dental",
+    "deal_size_mm": 60.0,
+    "ownership": "Private",
+    "region": null,
+    "regional": true,
+    "ebitda_margin_pct": null,
+    "description": ""
+   },
+   "acquirer": "Dental365",
+   "tags": [
+    "generalization",
+    "Strategic",
+    "thin_evidence"
+   ],
+   "pack_sha": "effe7d269c31"
+  }
+ ]
+}

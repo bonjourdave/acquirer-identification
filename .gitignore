@@ -1,0 +1,14 @@
+# Data is not committed. Drop the dataset into data/ (see data/README.md).
+data/*
+!data/README.md
+
+# Run output
+output/
+
+# Secrets and build artefacts
+.env
+.streamlit/secrets.toml
+__pycache__/
+.venv/
+.pytest_cache/
+.ruff_cache/
