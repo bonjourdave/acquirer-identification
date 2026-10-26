@@ -43,7 +43,14 @@ make app      # or the Streamlit app at http://localhost:8501
 
 **Other targets:** `uv run acquirer-id run --sector Dental --size 60 --region Southeast` (also `--ownership`, `--margin`, `--national`, `--config your.yaml`, `--csv path/to.csv`). Nothing about the brief's target is hardcoded.
 
-The app reads the key from `OPENAI_API_KEY`, or from `.streamlit/secrets.toml` (gitignored). The key is never logged or traced.
+**API key:** never committed, logged or traced.
+
+| Running | Put the key in |
+|---|---|
+| `make run` or `make app` | Your shell: `export OPENAI_API_KEY=sk-...` |
+| `make app` only | `.streamlit/secrets.toml`: copy `.streamlit/secrets.example.toml` and paste your key (gitignored) |
+
+If both are set, the exported variable wins.
 
 ## How it works
 
